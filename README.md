@@ -1,5 +1,5 @@
 # recommender_engine-MovieLens
 
-** Worked on movielense 1M dataset 
+** Worked on movielens 1M dataset 
 ** Used DATO's GraphLab-Create Library 
 ** ipython-notebook 
